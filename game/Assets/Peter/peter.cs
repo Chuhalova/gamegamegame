@@ -56,13 +56,13 @@ public class peter : MonoBehaviour {
 			isGrounded = false;
 		}
 
-		if (Input.GetButtonDown("Jump") && isGrounded)
+		if (Input.GetButtonDown("jump") && isGrounded)
 		{
 			this.JumpActive = true;
 		}
 		if (this.JumpActive)
 		{
-			if (Input.GetButton("Jump"))
+			if (Input.GetButton("jump"))
 			{
 				this.JumpTime += Time.deltaTime;
 				if (this.JumpTime < this.MaxJumpTime)
