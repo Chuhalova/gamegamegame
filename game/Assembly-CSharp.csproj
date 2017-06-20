@@ -46,9 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Peter\levelcontroller.cs" />
-     <Compile Include="Assets\Peter\peter.cs" />
-     <Compile Include="Assets\Peter\peter_camera.cs" />
+     <Compile Include="Assets\Peter\peter_scripts\HeroPeter.cs" />
+     <Compile Include="Assets\Peter\peter_scripts\LevelController.cs" />
+     <Compile Include="Assets\Scripts\CameraFollowPeter.cs" />
+     <Compile Include="Assets\Scripts\DeathZone.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
