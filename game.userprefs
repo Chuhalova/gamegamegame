@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Peter\peter_scripts\HeroPeter.cs">
+    <Files>
+      <File FileName="Assets\Peter\peter_scripts\HeroPeter.cs" Line="111" Column="13" />
+      <File FileName="Assets\Peter\peter_scripts\LevelController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DeathZone.cs" Line="13" Column="48" />
+      <File FileName="Assets\Scripts\CameraFollowPeter.cs" Line="16" Column="5" />
+      <File FileName="Assets\MegScript.cs" Line="127" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
